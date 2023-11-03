@@ -10,7 +10,7 @@ Try it out here: https://ahuang11.github.io/tastykitchen/
 
 To update:
 ```bash
-panel convert app.py --to pyodide-worker --out docs --requirements requirements.txt --title TastyKitchen
+panel convert app.py --to pyscript --out docs --requirements requirements.txt --title TastyKitchen
 mv docs/app.html docs/index.html
 ```
 
