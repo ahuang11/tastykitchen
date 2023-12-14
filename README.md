@@ -6,7 +6,7 @@ TastyKitchen is the UI of [tastymap](https://github.com/ahuang11/tastymap); make
 
 ![tastykitchen](https://github.com/ahuang11/tastymap/assets/15331990/ce015064-2ffb-4da2-bb8e-4818fdd751ab)
 
-Try it out here: https://ahuang11.github.io/tastykitchen/
+Try it out here: https://huggingface.co/spaces/ahuang11/tastykitchen
 
 To update:
 ```bash
